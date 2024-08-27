@@ -1,5 +1,7 @@
-18 The start chute loading procedure There are way too many people crowding the loading area way before their start time making it unnecessarily crowded There is no clear indication or announcement of what groups are currently loaded 1 Poor organization at the start, leading to congestion. 
-19 The start location reeked of human excrement 4 Unpleasant smell from homeless encampments at the start. 
-20 Groups were extremely large especially racing groups 5 Large start groups causing safety concerns. 
-21 Cut offs too earley for late starters and considering the wind 8 Windy conditions affecting race experience. 
-22 none 0 no theme 
+3048 lack of food on the refreshment stations 2 Lack of food and snacks at water stations. 
+3049 none 0 no theme 
+3050 No goodie bags 16 Poor quality of goodie bags and race packs. 
+3051 Cycle tour running out of medals 3 Running out of medals for finishers. 
+3052 The parking is a bit of an issue understandably so But by no means a deal breaker The bus service worked really well 18 Insufficient parking and access issues for participants. 
+3053 The kids offering to push on Suikerbossie 0 no theme 
+3054 Having to enter your staring block with only one gate 13 Chaotic entry into starting pens. 
