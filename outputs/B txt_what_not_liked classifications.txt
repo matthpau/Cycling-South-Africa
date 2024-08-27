@@ -1,7 +1,4 @@
-3048 lack of food on the refreshment stations 2 Lack of food and snacks at water stations. 
-3049 none 0 no theme 
-3050 No goodie bags 16 Poor quality of goodie bags and race packs. 
-3051 Cycle tour running out of medals 3 Running out of medals for finishers. 
-3052 The parking is a bit of an issue understandably so But by no means a deal breaker The bus service worked really well 18 Insufficient parking and access issues for participants. 
-3053 The kids offering to push on Suikerbossie 0 no theme 
-3054 Having to enter your staring block with only one gate 13 Chaotic entry into starting pens. 
+3005 Enjoy the race 20 Overall dissatisfaction with the experience compared to previous years. 
+3006 i could not find any fault in my view  yes I am a first time rider but I had all the assitance available and everyone had such a great vibe to them 20 Overall dissatisfaction with the experience compared to previous years. 
+3007 none 0 no theme 
+3008 Nothing really 20 Overall dissatisfaction with the experience compared to previous years. 
